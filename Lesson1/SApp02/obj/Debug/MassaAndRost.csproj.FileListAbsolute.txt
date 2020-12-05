@@ -1,0 +1,14 @@
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\MassaAndRost\bin\Debug\MassaAndRost.exe.config
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\MassaAndRost\bin\Debug\MassaAndRost.exe
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\MassaAndRost\bin\Debug\MassaAndRost.pdb
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\MassaAndRost\obj\Debug\MassaAndRost.csprojAssemblyReference.cache
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\MassaAndRost\obj\Debug\MassaAndRost.csproj.CoreCompileInputs.cache
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\MassaAndRost\obj\Debug\MassaAndRost.exe
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\MassaAndRost\obj\Debug\MassaAndRost.pdb
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\SApp02\bin\Debug\MassaAndRost.exe.config
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\SApp02\bin\Debug\MassaAndRost.exe
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\SApp02\bin\Debug\MassaAndRost.pdb
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\SApp02\obj\Debug\MassaAndRost.csprojAssemblyReference.cache
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\SApp02\obj\Debug\MassaAndRost.csproj.CoreCompileInputs.cache
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\SApp02\obj\Debug\MassaAndRost.exe
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\SApp02\obj\Debug\MassaAndRost.pdb

@@ -1,0 +1,7 @@
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\SApp03\obj\Debug\3zadanie.csprojAssemblyReference.cache
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\SApp03\obj\Debug\3zadanie.csproj.CoreCompileInputs.cache
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\SApp03\bin\Debug\_3zadanie.exe.config
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\SApp03\bin\Debug\_3zadanie.exe
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\SApp03\bin\Debug\_3zadanie.pdb
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\SApp03\obj\Debug\_3zadanie.exe
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\SApp03\obj\Debug\_3zadanie.pdb

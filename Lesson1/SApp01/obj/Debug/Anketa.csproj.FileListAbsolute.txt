@@ -1,0 +1,14 @@
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\Anketa\bin\Debug\Anketa.exe.config
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\Anketa\bin\Debug\Anketa.exe
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\Anketa\bin\Debug\Anketa.pdb
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\Anketa\obj\Debug\Anketa.csprojAssemblyReference.cache
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\Anketa\obj\Debug\Anketa.csproj.CoreCompileInputs.cache
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\Anketa\obj\Debug\Anketa.exe
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\Anketa\obj\Debug\Anketa.pdb
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\SApp01\bin\Debug\Anketa.exe.config
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\SApp01\bin\Debug\Anketa.exe
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\SApp01\bin\Debug\Anketa.pdb
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\SApp01\obj\Debug\Anketa.csprojAssemblyReference.cache
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\SApp01\obj\Debug\Anketa.csproj.CoreCompileInputs.cache
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\SApp01\obj\Debug\Anketa.exe
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\DZ1\SApp01\obj\Debug\Anketa.pdb
