@@ -1,0 +1,13 @@
+C:\Users\Евгений и Алла и Ксю\Desktop\TestArray\TestArray\obj\Debug\TestArray.csproj.CoreCompileInputs.cache
+C:\Users\Евгений и Алла и Ксю\Desktop\TestArray\TestArray\bin\Debug\TestArray.exe.config
+C:\Users\Евгений и Алла и Ксю\Desktop\TestArray\TestArray\bin\Debug\TestArray.exe
+C:\Users\Евгений и Алла и Ксю\Desktop\TestArray\TestArray\bin\Debug\TestArray.pdb
+C:\Users\Евгений и Алла и Ксю\Desktop\TestArray\TestArray\obj\Debug\TestArray.exe
+C:\Users\Евгений и Алла и Ксю\Desktop\TestArray\TestArray\obj\Debug\TestArray.pdb
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\Lesson4\SApp02\bin\Debug\TestArray.exe.config
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\Lesson4\SApp02\bin\Debug\TestArray.exe
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\Lesson4\SApp02\bin\Debug\TestArray.pdb
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\Lesson4\SApp02\obj\Debug\TestArray.csprojAssemblyReference.cache
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\Lesson4\SApp02\obj\Debug\TestArray.csproj.CoreCompileInputs.cache
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\Lesson4\SApp02\obj\Debug\TestArray.exe
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\Lesson4\SApp02\obj\Debug\TestArray.pdb
