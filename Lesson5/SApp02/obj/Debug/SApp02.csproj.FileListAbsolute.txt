@@ -1,0 +1,7 @@
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\Lesson5\SApp02\obj\Debug\SApp02.csprojAssemblyReference.cache
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\Lesson5\SApp02\obj\Debug\SApp02.csproj.CoreCompileInputs.cache
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\Lesson5\SApp02\bin\Debug\SApp02.exe.config
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\Lesson5\SApp02\bin\Debug\SApp02.exe
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\Lesson5\SApp02\bin\Debug\SApp02.pdb
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\Lesson5\SApp02\obj\Debug\SApp02.exe
+C:\Users\Евгений и Алла и Ксю\Desktop\DZ\Lesson5\SApp02\obj\Debug\SApp02.pdb
